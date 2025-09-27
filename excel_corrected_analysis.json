@@ -1,0 +1,269 @@
+{
+  "total_alumni": 1803,
+  "batch_distribution": [
+    {
+      "batch": "B-1",
+      "count": 8
+    },
+    {
+      "batch": "B-2",
+      "count": 5
+    },
+    {
+      "batch": "B-3",
+      "count": 28
+    },
+    {
+      "batch": "B-4",
+      "count": 68
+    },
+    {
+      "batch": "B-5",
+      "count": 27
+    },
+    {
+      "batch": "B-6",
+      "count": 24
+    },
+    {
+      "batch": "B-7",
+      "count": 66
+    },
+    {
+      "batch": "B-8",
+      "count": 34
+    },
+    {
+      "batch": "B-9",
+      "count": 49
+    },
+    {
+      "batch": "B-10",
+      "count": 71
+    },
+    {
+      "batch": "B-11",
+      "count": 142
+    },
+    {
+      "batch": "B-12",
+      "count": 146
+    },
+    {
+      "batch": "B-13",
+      "count": 0
+    },
+    {
+      "batch": "B-14",
+      "count": 312
+    },
+    {
+      "batch": "B-15",
+      "count": 244
+    },
+    {
+      "batch": "B-16",
+      "count": 579
+    }
+  ],
+  "state_chapters_distribution": [
+    [
+      "Rajasthan",
+      378
+    ],
+    [
+      "Bihar",
+      311
+    ],
+    [
+      "Jharkhand",
+      179
+    ],
+    [
+      "Maharashtra",
+      172
+    ],
+    [
+      "Madhya Pradesh",
+      145
+    ],
+    [
+      "Odisha",
+      121
+    ],
+    [
+      "Gujarat",
+      113
+    ],
+    [
+      "Assam",
+      87
+    ],
+    [
+      "Chhattisgarh",
+      86
+    ],
+    [
+      "Uttar Pradesh",
+      59
+    ],
+    [
+      "Haryana",
+      42
+    ],
+    [
+      "Andhra Pradesh",
+      22
+    ],
+    [
+      "Uttarakhand",
+      14
+    ],
+    [
+      "Telangana",
+      13
+    ],
+    [
+      "Tamil Nadu",
+      10
+    ],
+    [
+      "Jammu and Kashmir",
+      10
+    ],
+    [
+      "Punjab",
+      8
+    ],
+    [
+      "Karnataka",
+      7
+    ],
+    [
+      "Meghalaya",
+      6
+    ],
+    [
+      "Arunachal Pradesh",
+      5
+    ],
+    [
+      "Sikkim",
+      3
+    ],
+    [
+      "Mizoram",
+      2
+    ],
+    [
+      "Delhi-NCR",
+      2
+    ],
+    [
+      "Himachal Pradesh",
+      2
+    ],
+    [
+      "Tripura",
+      2
+    ],
+    [
+      "BIHAR",
+      1
+    ],
+    [
+      "Karnatka",
+      1
+    ],
+    [
+      "odisha",
+      1
+    ],
+    [
+      "ANDHRA PRADESH",
+      1
+    ]
+  ],
+  "sample_records": [
+    {
+      "sr_no": 1,
+      "batch": "B-1",
+      "name": "Shreya Tiwari",
+      "alumni_state_chapter": "Rajasthan",
+      "base_location_original": "Not Available",
+      "fellowship_location": "Rajasthan - Churu"
+    },
+    {
+      "sr_no": 2,
+      "batch": "B-1",
+      "name": "Stephney Steven",
+      "alumni_state_chapter": "Rajasthan",
+      "base_location_original": "Not Available",
+      "fellowship_location": "Rajasthan - Jhunjhunu"
+    },
+    {
+      "sr_no": 3,
+      "batch": "B-1",
+      "name": "Gitanjali Babbar",
+      "alumni_state_chapter": "Rajasthan",
+      "base_location_original": "Not Available",
+      "fellowship_location": "Rajasthan - Churu "
+    },
+    {
+      "sr_no": 4,
+      "batch": "B-1",
+      "name": "Dr.Sugandha Munshi",
+      "alumni_state_chapter": "Rajasthan",
+      "base_location_original": "Not Available",
+      "fellowship_location": "Rajasthan - Jhunjhunu"
+    },
+    {
+      "sr_no": 5,
+      "batch": "B-1",
+      "name": "Salman U Khan",
+      "alumni_state_chapter": "Rajasthan",
+      "base_location_original": "Not Available",
+      "fellowship_location": "Rajasthan - Churu"
+    },
+    {
+      "sr_no": 6,
+      "batch": "B-1",
+      "name": "Toiba Sultana",
+      "alumni_state_chapter": "Rajasthan",
+      "base_location_original": "Not Available",
+      "fellowship_location": "Rajasthan - Jhunjhunu"
+    },
+    {
+      "sr_no": 7,
+      "batch": "B-1",
+      "name": "Preyansi Mani",
+      "alumni_state_chapter": "Rajasthan",
+      "base_location_original": "Not Available",
+      "fellowship_location": "Rajasthan - Churu"
+    },
+    {
+      "sr_no": 8,
+      "batch": "B-1",
+      "name": "Ankush Bhardwaj",
+      "alumni_state_chapter": "Rajasthan",
+      "base_location_original": "Not Available",
+      "fellowship_location": "Rajasthan - Jhunjhunu"
+    },
+    {
+      "sr_no": 9,
+      "batch": "B-2",
+      "name": "Divya Jain",
+      "alumni_state_chapter": "Gujarat",
+      "base_location_original": "Not Available",
+      "fellowship_location": "Gujarat - Ahmedabad"
+    },
+    {
+      "sr_no": 10,
+      "batch": "B-2",
+      "name": "Nibedita Parajuli",
+      "alumni_state_chapter": "Gujarat",
+      "base_location_original": "Not Available",
+      "fellowship_location": "Gujarat - Ahmedabad"
+    }
+  ]
+}
